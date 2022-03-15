@@ -1,0 +1,17 @@
+{
+	"info": {
+		"_postman_id": "645b9234-a4e8-45f7-bd21-52582f7bc2af",
+		"name": "truck it in test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "infixtopostfix/compute",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
